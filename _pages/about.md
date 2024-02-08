@@ -32,6 +32,8 @@ During the summer of 2022, I joined [DIAS]() lab of EPFL, where I collaborated w
 
 During my early days in University of Crete, I collaborated with [FORTH-ICS](https://www.forth.gr/en/home/) and professor [Yannis Tzitzikas](https://users.ics.forth.gr/~tzitzik/) in topics of Open Linked Data and Knowledge Graphs.
 
+My full CV is available [here](../assets/pdf/cv.pdf)
+
 <!-- When I am not busy with Computer Science-related stuff, I am either travelling, playing Video Games or watching movies. Video Games are my passion since I remember myself, and I sometimes write my experiences with video game titles. -->
 
 <!--Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.

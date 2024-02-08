@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: # <a href='#'>Affiliations</a>. CEA. EPFL. Moto. Etc.
 
 profile:
   align: right
@@ -27,8 +27,7 @@ Before EPFL, I obtained by BSc from the Computer Science Department of Universit
 
 I am collaborating with [Universite Paris Cite]() and professors [Themis Palpanas]() and [Panagiota Fatourou]() since 2021, on topics of scalable distributed similarity search.
 
-During the summer of 2022, I joined [DIAS] lab of EPFL, where I collaborated with professor [Anastasia Ailamaki]() and [Viktor Sanca]() on the enhancement of relation operators with vector embeddings. 
-
+During the summer of 2022, I joined [DIAS]() lab of EPFL, where I collaborated with professor [Anastasia Ailamaki]() and [Viktor Sanca]() on the enhancement of relation operators with vector embeddings. 
 
 During my early days in University of Crete, I collaborated with FORTH-ICS and professor [Yannis Tzitzikas]() in topics of Open Linked Data and Knowledge Graphs.
 

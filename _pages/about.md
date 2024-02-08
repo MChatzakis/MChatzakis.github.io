@@ -21,9 +21,12 @@ social: true # includes social icons at the bottom of the page
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.-->
 
-I am a Computer Science MSc student at [EPFL](), and currently a research intern at [CEA, Paris](), where I work on topics of scalable time series similarity search for seismic data collections. I am particuratly interested for distributed time series similarity search and machine learning.
+I am a Computer Science MSc student at [EPFL](https://www.epfl.ch/en/), and currently a research intern at [CEA, Paris](https://www.cea.fr/), where I work on topics of scalable time series similarity search for seismic data collections. I am particurarly interested for distributed time series similarity search and machine learning.
 
-Before EPFL, I obtained by BSc from the Computer Science Department of University of Crete, where I graduated first in class in July 2022. 
+Before EPFL, I obtained by BSc from the Computer Science Department of University of Crete, where I graduated first in class in July 2022.
+
+
+
 
 <!--Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

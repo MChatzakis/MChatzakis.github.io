@@ -36,6 +36,7 @@ Throughout my studies I have received several awards, including undergraduate an
 
 My detailed CV is available [here](../assets/pdf/cv.pdf).
 
+Sometimes, I write about travellings experiences, movies and video games in my blog.
 
 <!-- When I am not busy with Computer Science-related stuff, I am either travelling, playing Video Games or watching movies. Video Games are my passion since I remember myself, and I sometimes write my experiences with video game titles. -->
 

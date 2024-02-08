@@ -24,9 +24,9 @@ I am a Computer Science MSc student at [EPFL](https://www.epfl.ch/en/), and curr
 
 <!-- I am particurarly interested for distributed time series similarity search and machine learning. -->
 
-Before EPFL, I obtained by BSc from the [Computer Science Department of University of Crete](), where I graduated first in class in July 2022.
+Before EPFL, I obtained by BSc from the [Computer Science Department, University of Crete](), where I graduated first in class in July 2022.
 
-I am collaborating with [Dino Group]() of [Universite Paris Cite]() and professors [Themis Palpanas]() and [Panagiota Fatourou]() since 2021, on topics of scalable distributed similarity search.
+I am collaborating with [Dino Group, Universite Paris Cite]() and professors [Themis Palpanas]() and [Panagiota Fatourou]() since 2021, on topics of scalable distributed similarity search.
 
 During the summer of 2022, I joined [DIAS]() lab of EPFL, where I collaborated with professor [Anastasia Ailamaki]() and [Viktor Sanca]() on the enhancement of relation operators with vector embeddings. 
 

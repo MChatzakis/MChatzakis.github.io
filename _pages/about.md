@@ -24,14 +24,15 @@ I am a Computer Science MSc student at [EPFL](https://www.epfl.ch/en/), and curr
 
 <!-- I am particurarly interested for distributed time series similarity search and machine learning. -->
 
-Before EPFL, I obtained by BSc from the [Computer Science Department, University of Crete](), where I graduated first in class in July 2022.
+Before EPFL, I obtained by BSc from the [Computer Science Department, University of Crete](https://www.csd.uoc.gr/CSD/index.jsp?lang=en), where I graduated first in class in July 2022.
 
-I am collaborating with [Dino Group, Universite Paris Cite]() and professors [Themis Palpanas]() and [Panagiota Fatourou]() since 2021, on topics of scalable distributed similarity search.
+I am collaborating with [Dino Group, Universite Paris Cite](https://dino.mi.parisdescartes.fr/) and professors [Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/) and [Panagiota Fatourou](https://users.ics.forth.gr/~faturu/) since 2021, on topics of scalable distributed similarity search.
 
-During the summer of 2022, I joined [DIAS]() lab of EPFL, where I collaborated with professor [Anastasia Ailamaki]() and [Viktor Sanca]() on the enhancement of relation operators with vector embeddings. 
+During the summer of 2022, I joined [DIAS]() lab of EPFL, where I collaborated with professor [Anastasia Ailamaki](https://people.epfl.ch/anastasia.ailamaki/?lang=en) and [Viktor Sanca](https://www.viktorsanca.com/) on the enhancement of relation operators with vector embeddings. 
 
-During my early days in University of Crete, I collaborated with [FORTH-ICS]() and professor [Yannis Tzitzikas]() in topics of Open Linked Data and Knowledge Graphs.
+During my early days in University of Crete, I collaborated with [FORTH-ICS](https://www.forth.gr/en/home/) and professor [Yannis Tzitzikas](https://users.ics.forth.gr/~tzitzik/) in topics of Open Linked Data and Knowledge Graphs.
 
+<!-- When I am not busy with Computer Science-related stuff, I am either travelling, playing Video Games or watching movies. Video Games are my passion since I remember myself, and I sometimes write my experiences with video game titles. -->
 
 <!--Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

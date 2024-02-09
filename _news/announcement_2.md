@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have received a scholarship from Onassis Foundation
+I have received a scholarship from Onassis Foundation!

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am joining CEA, Paris for a six-month research internship!
+From the beginning of March 2024, I will join CEA in Paris for a six-month research intership!

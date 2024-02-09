@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am joining DIAS lab of EPFL for a summer internship!
+I am joining DIAS lab of EPFL for a summer research internship!

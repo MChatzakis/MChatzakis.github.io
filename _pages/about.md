@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.-->
 
-I am a Computer Science MSc student at [EPFL, Switzerland](https://www.epfl.ch/en/), and currently a research intern at [CEA, Paris](https://www.cea.fr/), where I focus on <i>scalable time series similarity search for seismic data collections</i>. 
+I am a Computer Science MSc student at [EPFL](https://www.epfl.ch/en/), and currently a research intern at [CEA in Paris Paris](https://www.cea.fr/), where I focus on <i>scalable time series similarity search for seismic data collections</i>. 
 
 <!-- I am particurarly interested for distributed time series similarity search and machine learning. -->
 
@@ -32,7 +32,7 @@ During the summer of 2022, I joined [DIAS](https://www.epfl.ch/labs/dias/) lab o
 
 During my early days in University of Crete, I was a research assistant at [FORTH-ICS](https://www.forth.gr/en/home/) working with professor [Yannis Tzitzikas](https://users.ics.forth.gr/~tzitzik/) in topics of <i>Open Linked Data and Knowledge Graphs</i>.
 
-Throughout my studies I have received several awards, including undergraduate and graduate scholarships from University of Crete, [Latsis](https://www.latsis-foundation.org/eng), and [Onassis](https://www.onassis.org/) foundations, while I was also selected to participate as a young scientists in the [9th HLF](https://www.heidelberg-laureate-forum.org/forum/9th-hlf-2022.html).
+Throughout my studies I have received several awards, including undergraduate and graduate scholarships from University of Crete, [Latsis Foundation](https://www.latsis-foundation.org/eng), and [Onassis Foundation](https://www.onassis.org/), while I was also selected to participate as a young scientists in the [9th HLF](https://www.heidelberg-laureate-forum.org/forum/9th-hlf-2022.html).
 
 My detailed CV is available [here](../assets/pdf/cv.pdf).
 

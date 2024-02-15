@@ -30,7 +30,7 @@ Since 2021, I am collaborating with [Dino Group, Universite Paris Cite](https://
 
 During the summer of 2022, I joined [DIAS](https://www.epfl.ch/labs/dias/) lab of EPFL, where I collaborated with professor [Anastasia Ailamaki](https://people.epfl.ch/anastasia.ailamaki/?lang=en) and [Viktor Sanca](https://www.viktorsanca.com/) to create an <i>enhanced relational string-join operator using deep learning word embeddings</i>
 
-During my early days in University of Crete, I was a research assistant at [FORTH-ICS](https://www.forth.gr/en/home/) working with professor [Yannis Tzitzikas](https://users.ics.forth.gr/~tzitzik/) in topics of <i>Open Linked Data and Knowledge Graphs</i>.
+During my early days in University of Crete, I was a research assistant at [FORTH-ICS](https://www.forth.gr/en/home/) working with professor [Yannis Tzitzikas](https://users.ics.forth.gr/~tzitzik/) and Dr. [Michalis Mountantonakis](https://users.ics.forth.gr/~mountant/) in topics of <i>Open Linked Data and Knowledge Graphs</i>.
 
 Throughout my studies I have received several awards, including undergraduate and graduate scholarships from University of Crete, [Latsis Foundation](https://www.latsis-foundation.org/eng), and [Onassis Foundation](https://www.onassis.org/), while I was also selected to participate as a young scientist in the [9th HLF](https://www.heidelberg-laureate-forum.org/forum/9th-hlf-2022.html).
 

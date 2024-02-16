@@ -26,7 +26,7 @@ I am a Computer Science MSc student at [EPFL](https://www.epfl.ch/en/), and curr
 
 Before EPFL, I obtained by BSc from the [Computer Science Department, University of Crete](https://www.csd.uoc.gr/CSD/index.jsp?lang=en), where I graduated first in class in July 2022.
 
-Since 2021, I am collaborating with [Dino Group, Universite Paris Cite](https://dino.mi.parisdescartes.fr/) and professors [Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/) and [Panagiota Fatourou](https://users.ics.forth.gr/~faturu/), working on topics of <i>distributed data series similarity search</i>.
+Since 2021, I am collaborating with [Dino Group, Universite Paris Cite](https://dino.mi.parisdescartes.fr/) and professors [Panagiota Fatourou](https://users.ics.forth.gr/~faturu/) and [Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/), working on topics of <i>distributed data series similarity search</i>.
 
 During the summer of 2022, I joined [DIAS](https://www.epfl.ch/labs/dias/) lab of EPFL, where I collaborated with professor [Anastasia Ailamaki](https://people.epfl.ch/anastasia.ailamaki/?lang=en) and [Viktor Sanca](https://www.viktorsanca.com/) to create an <i>enhanced relational string-join operator using deep learning word embeddings</i>
 

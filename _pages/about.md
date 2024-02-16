@@ -34,7 +34,7 @@ During my early days in University of Crete, I was a research assistant at [FORT
 
 Throughout my studies I have received several awards, including undergraduate and graduate scholarships from University of Crete, [Latsis Foundation](https://www.latsis-foundation.org/eng), and [Onassis Foundation](https://www.onassis.org/), while I was also selected to participate as a young scientist in the [9th HLF](https://www.heidelberg-laureate-forum.org/forum/9th-hlf-2022.html).
 
-My detailed CV is available [here](../assets/pdf/cv.pdf).
+My detailed CV is available [here](https://mchatzakis.github.io/assets/pdf/cv.pdf).
 
 <!--Sometimes, I write about travellings experiences, movies and video games in my blog.-->
 

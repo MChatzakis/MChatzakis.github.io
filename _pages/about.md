@@ -9,6 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+  LIPADE - University of Paris
+  45 Rue Des Saints-Peres
+  Paris 75006, France 
 
     
 
@@ -24,11 +27,11 @@ I am a Computer Science MSc student at [EPFL](https://www.epfl.ch/en/), and curr
 
 <!-- I am particurarly interested for distributed time series similarity search and machine learning. -->
 
-Before EPFL, I obtained by BSc from the [Computer Science Department, University of Crete](https://www.csd.uoc.gr/CSD/index.jsp?lang=en), where I graduated first in class in July 2022.
+Before EPFL, I obtained my BSc from the [Computer Science Department, University of Crete](https://www.csd.uoc.gr/CSD/index.jsp?lang=en), where I graduated first in class in July 2022.
 
 Since 2021, I am collaborating with [Dino Group, Universite Paris Cite](https://dino.mi.parisdescartes.fr/) and professors [Panagiota Fatourou](https://users.ics.forth.gr/~faturu/) and [Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/), working on topics of <i>distributed data series similarity search</i>.
 
-During the summer of 2022, I joined [DIAS](https://www.epfl.ch/labs/dias/) lab of EPFL, where I collaborated with professor [Anastasia Ailamaki](https://people.epfl.ch/anastasia.ailamaki/?lang=en) and [Viktor Sanca](https://www.viktorsanca.com/) to create an <i>enhanced relational string-join operator using deep learning word embeddings</i>
+During the summer of 2022, I joined [DIAS](https://www.epfl.ch/labs/dias/) lab of EPFL, where I collaborated with professor [Anastasia Ailamaki](https://people.epfl.ch/anastasia.ailamaki/?lang=en) and [Viktor Sanca](https://www.viktorsanca.com/) to create an <i>enhanced relational string-join operator using deep learning word embeddings</i>.
 
 During my early days in University of Crete, I was a research assistant at [FORTH-ICS](https://www.forth.gr/en/home/) working with professor [Yannis Tzitzikas](https://users.ics.forth.gr/~tzitzik/) and Dr. [Michalis Mountantonakis](https://users.ics.forth.gr/~mountant/) in topics of <i>Open Linked Data and Knowledge Graphs</i>.
 

@@ -18,31 +18,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.-->
+I am currently pursuing a Master's degree in Computer Science at [EPFL](https://www.epfl.ch/en/), and I am a thesis student at the [University of Paris](https://u-paris.fr/en/), working under the supervision of Professor [Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/) on approximate similarity search for high-dimensional data.
 
-I am a Computer Science MSc student at [EPFL](https://www.epfl.ch/en/), and currently a research intern at [CEA in Paris](https://www.cea.fr/), where I focus on <i>scalable time series similarity search for seismic data collections</i>.
+From February 2024 to August 2024, I was a research intern at the [CEA](https://www.cea.fr/) in Paris, where I focused on scalable time series subsequence similarity search for seismic data collections.
 
-<!-- I am particurarly interested for distributed time series similarity search and machine learning. -->
+Prior to my studies at EPFL, I earned my Bachelor's degree from the [Computer Science Department at the University of Crete](https://www.csd.uoc.gr/CSD/index.jsp?lang=en), graduating first in my class in July 2022.
 
-Before EPFL, I obtained my BSc from the [Computer Science Department, University of Crete](https://www.csd.uoc.gr/CSD/index.jsp?lang=en), where I graduated first in class in July 2022.
+In the summer of 2022, I joined the [DIAS](https://www.epfl.ch/labs/dias/) lab at EPFL, where I collaborated with Professor [Anastasia Ailamaki](https://people.epfl.ch/anastasia.ailamaki/?lang=en) and Dr. [Viktor Sanca](https://www.viktorsanca.com/) to develop an enhanced context-awar relational string-join operator using deep learning word embeddings.
 
-Since 2021, I am collaborating with [Dino Group, Universite Paris Cite](https://dino.mi.parisdescartes.fr/) under the supervision of Professors [Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/) and [Panagiota Fatourou](https://users.ics.forth.gr/~faturu/) and, working on topics of <i>distributed data series similarity search</i>.
+Since 2021, I have been collaborating with the [Dino Group, Université Paris Cité](https://dino.mi.parisdescartes.fr/) under the supervision of Professors [Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/) and [Panagiota Fatourou](https://users.ics.forth.gr/~faturu/), working on distributed large-scale data series similarity search.
 
-During the summer of 2022, I joined [DIAS](https://www.epfl.ch/labs/dias/) lab of EPFL, where I collaborated with Professor [Anastasia Ailamaki](https://people.epfl.ch/anastasia.ailamaki/?lang=en) and [Viktor Sanca](https://www.viktorsanca.com/) to create an <i>enhanced relational string-join operator using deep learning word embeddings</i>.
+Earlier, I served as a research assistant at [FORTH-ICS](https://www.forth.gr/en/home/), working with Professor [Yannis Tzitzikas](https://users.ics.forth.gr/~tzitzik/) and Dr. [Michalis Mountantonakis](https://users.ics.forth.gr/~mountant/) on Open Linked Data and Knowledge Graphs.
 
-During my early days in University of Crete, I was a research assistant at [FORTH-ICS](https://www.forth.gr/en/home/) working with Professor [Yannis Tzitzikas](https://users.ics.forth.gr/~tzitzik/) and Dr. [Michalis Mountantonakis](https://users.ics.forth.gr/~mountant/) in topics of <i>Open Linked Data and Knowledge Graphs</i>.
+Throughout my academic journey, I have received several awards and scholarships, including undergraduate scholarships from the University of Crete, and graduate scholarships from the [Latsis Foundation](https://www.latsis-foundation.org/eng) and the [Onassis Foundation](https://www.onassis.org/). I was also honored to participate as a young scientist in the [9th Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/forum/9th-hlf-2022.html).
 
-Throughout my studies I have received several awards, including undergraduate scholarships from University of Crete, and graduate scholarships [Latsis Foundation](https://www.latsis-foundation.org/eng) and [Onassis Foundation](https://www.onassis.org/). I was also selected to participate as a young scientist in the [9th HLF](https://www.heidelberg-laureate-forum.org/forum/9th-hlf-2022.html).
-
-My detailed CV is available <a href="https://mchatzakis.github.io/assets/pdf/cv.pdf" target="_blank">here</a>.
-
-
-<!-- [here](https://mchatzakis.github.io/assets/pdf/cv.pdf).-->
- 
-<!--Sometimes, I write about travellings experiences, movies and video games in my blog.-->
-
-<!-- When I am not busy with Computer Science-related stuff, I am either travelling, playing Video Games or watching movies. Video Games are my passion since I remember myself, and I sometimes write my experiences with video game titles. -->
-
-<!--Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.-->
+For more details, please refer to my [detailed CV](https://mchatzakis.github.io/assets/pdf/cv.pdf).

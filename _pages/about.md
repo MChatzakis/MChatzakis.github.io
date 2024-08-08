@@ -24,9 +24,9 @@ From February 2024 to August 2024, I was a research intern at the [CEA](https://
 
 In the summer of 2022, I joined the [DIAS](https://www.epfl.ch/labs/dias/) lab at EPFL, where I collaborated with Professor [Anastasia Ailamaki](https://people.epfl.ch/anastasia.ailamaki/?lang=en) and Dr. [Viktor Sanca](https://www.viktorsanca.com/) to develop an enhanced context-awar relational string-join operator using deep learning word embeddings.
 
-Prior to my studies at EPFL, I earned my Bachelor's degree from the [Computer Science Department at the University of Crete](https://www.csd.uoc.gr/CSD/index.jsp?lang=en), graduating first in my class in July 2022.
+Prior to my studies at EPFL, I got my Bachelor's degree from the [Computer Science Department at the University of Crete](https://www.csd.uoc.gr/CSD/index.jsp?lang=en), graduating first in my class in July 2022.
 
-Since 2021, I have been collaborating with the [Dino Group, University of Paris](https://dino.mi.parisdescartes.fr/) under the supervision of Professors [Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/) and [Panagiota Fatourou](https://users.ics.forth.gr/~faturu/), working on distributed large-scale data series similarity search.
+<!--Since 2021, I have been collaborating with the [Dino Group, University of Paris](https://dino.mi.parisdescartes.fr/) under the supervision of Professors [Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/) and [Panagiota Fatourou](https://users.ics.forth.gr/~faturu/), working on distributed large-scale data series similarity search.-->
 
 Earlier, I was a research assistant at [FORTH-ICS](https://www.forth.gr/en/home/), working with Professor [Yannis Tzitzikas](https://users.ics.forth.gr/~tzitzik/) and Dr. [Michalis Mountantonakis](https://users.ics.forth.gr/~mountant/) on Open Linked Data and Knowledge Graphs.
 

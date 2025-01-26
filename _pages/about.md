@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an incoming doctoral candidate at the diNo Research Group of [University of Paris](https://u-paris.fr/en/), 
+I am an incoming doctoral candidate at the [diNo](http://dino.mi.parisdescartes.fr/) Research Group of [University of Paris](https://u-paris.fr/en/), 
 working with Professor [Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/) on topics of efficient Nearest Neighbor Search (NNS) for high-dimensional data. 
 
 I have obtained my MSc Computer Science degree from [EPFL](https://www.epfl.ch/en/) in Switzerland, 

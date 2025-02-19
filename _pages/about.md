@@ -22,7 +22,7 @@ working with Professor [Themis Palpanas](https://helios2.mi.parisdescartes.fr/~t
 I have obtained my MSc Computer Science degree from [EPFL](https://www.epfl.ch/en/) in Switzerland, 
 and my BSc Computer Science degree from the [University of Crete](https://www.csd.uoc.gr/CSD/index.jsp?lang=en) in Greece, where I graduated first in my class.
 
-I have interned at several institutions, including the [Commision of Atomic Energy (CEA)](https://www.cea.fr/) in Paris, 
+I have interned and collaborated with several institutions, including [Google Cloud](https://cloud.google.com/?hl=en), the [Commision of Atomic Energy (CEA)](https://www.cea.fr/) in Paris, 
 the [DIAS](https://www.epfl.ch/labs/dias/) lab of EPFL in Switzerland ([summer@epfl](https://summer.epfl.ch/)), 
 and the [FORTH-ICS](https://www.forth.gr/en/home/) in Greece.
 

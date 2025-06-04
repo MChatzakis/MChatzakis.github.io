@@ -31,4 +31,4 @@ I was also honored to participate as a young computer scientist in the [9th Heid
 
 I am currently serving as a shadow PC for VLDB 2026.
 
-For details, refer to my [detailed CV](https://mchatzakis.github.io/assets/pdf/cv.pdf).
+<!--For details, refer to my [detailed CV](https://mchatzakis.github.io/assets/pdf/cv.pdf).-->

@@ -16,18 +16,19 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an incoming doctoral candidate at the [diNo](http://dino.mi.parisdescartes.fr/) Research Group of [University of Paris](https://u-paris.fr/en/), 
-working with Professor [Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/) on topics of efficient Nearest Neighbor Search (NNS) for high-dimensional data. 
+I am a student researcher at [Google](https://google.com) and a PhD student at Université Paris Cité, advised by Professor [Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/).
 
-I have obtained my MSc Computer Science degree from [EPFL](https://www.epfl.ch/en/) in Switzerland, 
-and my BSc Computer Science degree from the [University of Crete](https://www.csd.uoc.gr/CSD/index.jsp?lang=en) in Greece, where I graduated first in my class.
+My research interests lie in the area of data management, with special focus on nearest neighbor search for high-dimensional vector and data series collections. 
 
-I have collaborated with several institutions, including the [Commision of Atomic Energy (CEA)](https://www.cea.fr/) in Paris, [DIAS](https://www.epfl.ch/labs/dias/) lab of EPFL in Switzerland ([summer@epfl](https://summer.epfl.ch/)), 
+I have obtained my MSc in computer science from [EPFL](https://www.epfl.ch/en/) in Switzerland, 
+and my BSc in computer science from the [University of Crete](https://www.csd.uoc.gr/CSD/index.jsp?lang=en) in Greece, where I graduated first in my class.
+
+I have collaborated with several institutions, including the [Commision of Atomic Energy (CEA)](https://www.cea.fr/) in France, [DIAS EPFL lab](https://www.epfl.ch/labs/dias/) in Switzerland ([summer@epfl](https://summer.epfl.ch/)), 
 and [FORTH-ICS](https://www.forth.gr/en/home/) in Greece.
 
 I am honored to have received several awards and scholarships, including undergraduate scholarships from the University of Crete, and graduate scholarships from the [Latsis Foundation](https://www.latsis-foundation.org/eng) and the [Onassis Foundation](https://www.onassis.org).
 I was also honored to participate as a young computer scientist in the [9th Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/forum/9th-hlf-2022.html).
-I am also a selected Shadow PC for VLDB 2026.
 
+I am currently serving as a shadow PC for VLDB 2026.
 
 For details, refer to my [detailed CV](https://mchatzakis.github.io/assets/pdf/cv.pdf).

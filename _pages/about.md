@@ -16,12 +16,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a student researcher at [Google](https://google.com) and a PhD student at Université Paris Cité, advised by Professor [Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/).
+I am a student researcher at [Google](https://google.com) and a PhD student at [Université Paris Cité](https://u-paris.fr/en/), advised by Professor [Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/).
 
 My research interests lie in the area of data management, with special focus on nearest neighbor search for high-dimensional vector and data series collections. 
 
-I have obtained my MSc in computer science from [EPFL](https://www.epfl.ch/en/) in Switzerland, 
-and my BSc in computer science from the [University of Crete](https://www.csd.uoc.gr/CSD/index.jsp?lang=en) in Greece, where I graduated first in my class.
+I have obtained my MSc in computer science from [EPFL](https://www.epfl.ch/en/) in Switzerland, and my BSc in computer science from the [University of Crete](https://www.csd.uoc.gr/CSD/index.jsp?lang=en) in Greece, where I graduated first in my class.
 
 I have collaborated with several institutions, including the [Commision of Atomic Energy (CEA)](https://www.cea.fr/) in France, [DIAS EPFL lab](https://www.epfl.ch/labs/dias/) in Switzerland ([summer@epfl](https://summer.epfl.ch/)), 
 and [FORTH-ICS](https://www.forth.gr/en/home/) in Greece.
@@ -31,4 +30,4 @@ I was also honored to participate as a young computer scientist in the [9th Heid
 
 I am currently serving as a shadow PC for VLDB 2026.
 
-<!--For details, refer to my [detailed CV](https://mchatzakis.github.io/assets/pdf/cv.pdf).-->
+For details, refer to my [detailed CV](https://mchatzakis.github.io/assets/pdf/cv.pdf).

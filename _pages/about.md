@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: More Info > 
+  more_info: > 705G, 45 Rue des Saints-Pères, 75006 Paris, France 
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts

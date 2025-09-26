@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined the [French Atomic Energy Commission (CEA)](https://www.cea.fr/) in Paris, France, as a research intern for the spring semester of 2024!
+Joined the [French Atomic Energy Commission (CEA)](https://www.cea.fr/) in Paris, France, as a research intern for the spring semester of 2024.

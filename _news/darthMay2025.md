@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [DARTH](https://arxiv.org/abs/2505.19001) was accepted to SIGMOD 2026!
+Our paper [DARTH](https://arxiv.org/abs/2505.19001) was accepted to SIGMOD 2026.

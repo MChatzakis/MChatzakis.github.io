@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined [Google](https://www.google.com/) at Sunnyvale, California as a student researcher for the summer of 2025!
+Joined [Google](https://www.google.com/) in Sunnyvale, California, as a Student Researcher for the summer of 2025.

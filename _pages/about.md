@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I a PhD student at [Université Paris Cité](https://u-paris.fr/en/), advised by Professor [Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/).
+I am a PhD student at [Université Paris Cité](https://u-paris.fr/en/), advised by Professor [Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/).
 
 My research interests lie in the area of data management, with special focus on nearest neighbor search for high-dimensional vector and data series collections. 
 

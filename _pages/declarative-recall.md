@@ -102,4 +102,4 @@ nav_order: 6
 
 I am maintaining a github repo summarizing the latest and most interesting papers on early termination.
 
-The repo is available <a href="https://github.com/yourusername/early-termination-papers">here</a>.
+The repo is available <a href="https://github.com/MChatzakis/ann-declarative-recall-papers">here</a>.

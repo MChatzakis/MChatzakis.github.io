@@ -3,7 +3,7 @@ layout: page
 permalink: /declarative-recall/
 title: declarative recall
 description:
-nav: true
+nav: false
 nav_order: 6
 ---
 
@@ -25,7 +25,7 @@ nav_order: 6
             Volume 3, number 4, pages 1--26. ACM New York, NY, USA.
           </div>
           <div class="periodical">
-            <strong>Notes:</strong> Add an optional description here.
+            <strong>Notes:</strong> Paper is available <a href="#">here</a>, code <a href="#">here</a> and slides <a href="#">here</a>.
           </div>
         </div>
       </div>
@@ -42,7 +42,7 @@ nav_order: 6
             <em>EDBT</em>, 2026
           </div>
           <div class="periodical">
-            <strong>Notes:</strong> Add an optional description here.
+            <strong>Notes:</strong> Paper is available <a href="#">here</a>, code <a href="#">here</a> and slides <a href="#">here</a>.
           </div>
         </div>
       </div>
@@ -61,12 +61,8 @@ nav_order: 6
           <div class="periodical">
             This paper is an extended version of "DARTH: Declarative Recall Through Early Termination for Approximate Nearest Neighbor Search" (SIGMOD 2026) and is currently under review.
           </div>
-          <div class="links">
-            <a href="https://hal.science/hal-05566027" class="btn btn-sm z-depth-0" role="button">HTML</a>
-            <a href="https://hal.science/hal-05566027v1/file/DARTH_plus_preprint.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
-          </div>
           <div class="periodical">
-            <strong>Notes:</strong> Add an optional description here.
+            <strong>Notes:</strong> Paper is available <a href="https://hal.science/hal-05566027v1/file/DARTH_plus_preprint.pdf">here</a>, code <a href="#">here</a> and slides <a href="#">here</a>.
           </div>
         </div>
       </div>
@@ -80,7 +76,7 @@ nav_order: 6
             Submitted, coming soon!
           </div>
           <div class="periodical">
-            <strong>Notes:</strong> Add an optional description here.
+            <strong>Notes:</strong> Paper is available <a href="#">here</a>, code <a href="#">here</a> and slides <a href="#">here</a>.
           </div>
         </div>
       </div>
@@ -91,10 +87,10 @@ nav_order: 6
         <div id="senate-early-terminators" class="col-sm-10">
           <div class="title">The Senate of Early Terminators</div>
           <div class="periodical">
-            In preparation for IEEE Data Engineering Bulletin.
+            In preparation for IEEE Data Engineering Bulletin, coming soon!
           </div>
           <div class="periodical">
-            <strong>Notes:</strong> Add an optional description here.
+            <strong>Notes:</strong> Paper is available <a href="#">here</a>, code <a href="#">here</a> and slides <a href="#">here</a>.
           </div>
         </div>
       </div>
@@ -104,4 +100,6 @@ nav_order: 6
 
 ## Interesting reads
 
-Coming soon.
+I am maintaining a github repo summarizing the latest and most interesting papers on early termination.
+
+The repo is available <a href="https://github.com/yourusername/early-termination-papers">here</a>.

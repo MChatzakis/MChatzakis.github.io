@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student at LIPADE, Université Paris Cité # <a href='#'>Affiliations</a>. CEA. EPFL. Moto. Etc.
+subtitle: PhD Student at LIPADE, Université Paris Cité | Ex-Google, EPFL, CEA, UoC # <a href='#'>Affiliations</a>. CEA. EPFL. Moto. Etc.
 
 profile:
   align: right

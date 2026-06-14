@@ -18,7 +18,7 @@ about_me:
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at [LIPADE](https://lipade.mi.parisdescartes.fr/), [Université Paris Cité](https://u-paris.fr/en/), advised by Professor [Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/).
+I am a second-year PhD student at [LIPADE](https://lipade.mi.parisdescartes.fr/), [Université Paris Cité](https://u-paris.fr/en/), advised by Professor [Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/).
 
 I am broadly interested in vector data management, specifically focusing on exact and approximate nearest neighbor vector search.
 

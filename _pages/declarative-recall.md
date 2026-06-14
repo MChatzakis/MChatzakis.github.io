@@ -36,19 +36,10 @@ The list is available in a github repo which you will find below.
           <div class="periodical">
             Volume 3, number 4, pages 1--26. ACM New York, NY, USA.
           </div>
-        </div>
-      </div>
-    </li>
-
-    <li>
-      <div class="row">
-        <div id="chatzakis2026quest" class="col-sm-10">
-          <div class="title">The quest for faster ANN vector search <span class="links"><a href="#">[paper]</a> <a href="#">[code]</a> <a href="#">[slides]</a></span></div>
-          <div class="author">
-            <em>Manos Chatzakis</em>, Francesca Del Gaudio, Sophia Sideri, and Themis Palpanas
-          </div>
           <div class="periodical">
-            <em>EDBT</em>, 2026
+            DARTH is the basis of the declarative recall mechanism that we are currently developing.
+            It proposes a recall prediction model that estimates the recall of individual queries at runtime, and allows the search to terminate early when the desired recall is reached or surpassed.
+            DARTH idea is general, can be applied to any index and distance measure, and elimates all hyperparameter tuning.
           </div>
         </div>
       </div>
@@ -67,6 +58,10 @@ The list is available in a github repo which you will find below.
           <div class="periodical">
             This paper is an extended version of "DARTH: Declarative Recall Through Early Termination for Approximate Nearest Neighbor Search" (SIGMOD 2026) and is currently under review.
           </div>
+          <div class="periodical">
+            DARTH+ extends and optimizes DARTH.
+            It significantly improves recall prediction quality and required training times of DARTH, while it also provides optional probabilistic quality guarantees for the predicted recall of each query, allowing for robust early termination.
+          </div>
         </div>
       </div>
     </li>
@@ -78,16 +73,10 @@ The list is available in a github repo which you will find below.
           <div class="periodical">
             Submitted, coming soon!
           </div>
-        </div>
-      </div>
-    </li>
-
-    <li>
-      <div class="row">
-        <div id="senate-early-terminators" class="col-sm-10">
-          <div class="title">The Senate of Early Terminators <span class="links"><a href="#">[paper]</a> <a href="#">[code]</a> <a href="#">[slides]</a></span></div>
           <div class="periodical">
-            In preparation for IEEE Data Engineering Bulletin, coming soon!
+            Filtered vector search is extremely important for real-world applications, since it allows users to filter the search space based on certain attributes of the data.
+            However, hyperparameter tuning for filtered vector search is even more difficult than for unfiltered vector search, since the filtering can significantly change the search space.
+            VADER fixes that! Stay tuned for more details.
           </div>
         </div>
       </div>

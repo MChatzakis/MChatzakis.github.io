@@ -31,5 +31,4 @@ I am honored to have received several awards and scholarships, including a PhD s
 I was also honored to participate as a young computer scientist in the [9th Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/forum/9th-hlf-2022.html).
 
 I maintain a [dedicated page for my PhD research](https://mchatzakis.github.io/declarative-recall) on declarative recall for vector search.
-
 For details about my professional background, refer to my [detailed CV](https://mchatzakis.github.io/assets/pdf/cv.pdf).

@@ -9,19 +9,12 @@ nav_order: 6
 
 Declarative recall is a mechanism to elimate parameter tuning from approximate nearest neighbor vector search algorithms, since it allows users to specify a desired recall level instead of trying to tune the various hyperparameters of the underlying algorithm.
 Recently, declarative recall has been provided by using early termination techniques, which allow the search to stop early when a certain recall level is reached.
-This field is the main focus of my PhD research, and I am currently working on a few papers that explore this topic.
 
-Our work on declarative recall is based recall prediction, a single but powerful early termination idea that estimates the recall of a query at runtime, and allows the search to stop early when the desired recall is reached. 
+<br>
+
+## our work
+Our work on declarative recall is based recall prediction, a simple but powerful early termination idea that estimates the recall of a query at runtime, and allows the search to stop early when the desired recall is reached. 
 Our work constitutes the first general solution to the problem: works for k-NN graph and IVF indexes, supports all common distance measures, allows users to choose a different target recall for each query at query time, and users do not need to set any parameters. 
-
-In this page, I contain pointers to my completed and ongoing work on declarative recall (papers, code, slides).
-Additionally, since early termination is a very active research area with multiple great papers other than mine coming out, I also maintain a list of interesting papers on early termination that I have read and found interesting.
-The list is available in a github repo which you will find below.
-
-<br>
-<br>
-
-## Our work on declarative recall
 
 <div class="publications">
   <ol class="bibliography">
@@ -107,7 +100,6 @@ The list is available in a github repo which you will find below.
 
 
 <br>
-<br>
 
-## Interesting reads
+## reading list
 I am maintaining a [github repo](https://github.com/MChatzakis/ann-declarative-recall-papers) summarizing the latest and most interesting papers on early termination.

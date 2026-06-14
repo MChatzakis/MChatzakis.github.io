@@ -154,6 +154,7 @@
     </div>
 
     <!-- Links/Buttons -->
+    {% assign bibtex_show = entry.bibtex_show | downcase %}
     <div class="links">
       {% if entry.abstract %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
@@ -161,7 +162,7 @@
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
-      {% if entry.bibtex_show %}
+      {% if bibtex_show == 'true' %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       {% endif %}
       {% if entry.html %}
@@ -260,7 +261,7 @@
       </div>
     {% endif %}
 
-    {% if entry.bibtex_show %}
+    {% if bibtex_show == 'true' %}
       <!-- Hidden bibtex block -->
       <div class="bibtex hidden">
         {% highlight bibtex %}

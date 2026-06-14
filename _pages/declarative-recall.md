@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /declarative-recall/
-title: Thesis
+title: thesis
 description:
 nav: true
 nav_order: 3

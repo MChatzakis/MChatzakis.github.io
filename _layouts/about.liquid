@@ -64,6 +64,13 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- Professional service -->
+    {% if page.professional_service %}
+      <h2>{{ page.professional_service.title | default: 'Professional Service' }}</h2>
+      {% capture professional_service_content %}{% include professional_service.md %}{% endcapture %}
+      {{ professional_service_content | markdownify }}
+    {% endif %}
+
     <!-- About me -->
     {% if page.about_me %}
       <h2>{{ page.about_me.title | default: 'about me' }}</h2>

@@ -28,7 +28,7 @@ The list is available in a github repo which you will find below.
     <li>
       <div class="row">
         <div id="chatzakis2025darth" class="col-sm-10">
-          <div class="title">Darth: Declarative recall through early termination for approximate nearest neighbor search <span class="links"><a href="#">[paper]</a> <a href="#">[code]</a> <a href="#">[slides]</a></span></div>
+          <div class="title">Darth: Declarative recall through early termination for approximate nearest neighbor search <span class="links"><a href="https://arxiv.org/abs/2505.19001">[paper]</a> <a href="#">[code]</a> <a href="#">[slides]</a></span></div>
           <div class="author">
             <em>Manos Chatzakis</em>, Yannis Papakonstantinou, and Themis Palpanas
           </div>
@@ -50,7 +50,7 @@ The list is available in a github repo which you will find below.
     <li>
       <div class="row">
         <div id="chatzakis-hal-05566027" class="col-sm-10">
-          <div class="title">DARTH+: Approximate Nearest Neighbor Search with Declarative Recall and Quality Guarantees <span class="links"><a href="https://hal.science/hal-05566027v1/file/DARTH_plus_preprint.pdf">[paper (preprint)]</a> <a href="#">[code]</a> <a href="#">[slides]</a></span></div>
+          <div class="title">DARTH+: Approximate Nearest Neighbor Search with Declarative Recall and Quality Guarantees <span class="links"><a href="https://hal.science/hal-05566027">[paper]</a> <a href="#">[code]</a> <a href="#">[slides]</a></span></div>
           <div class="author">
             <em>Manos Chatzakis</em>, Yannis Papakonstantinou, and Themis Palpanas
           </div>

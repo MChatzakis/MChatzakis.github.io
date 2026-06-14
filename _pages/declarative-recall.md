@@ -28,7 +28,7 @@ The list is available in a github repo which you will find below.
     <li>
       <div class="row">
         <div id="chatzakis2025darth" class="col-sm-10">
-          <div class="title">Darth: Declarative recall through early termination for approximate nearest neighbor search <span class="links"><a href="https://arxiv.org/abs/2505.19001">[paper]</a> <a href="#">[code]</a> <a href="#">[slides]</a></span></div>
+          <div class="title">Darth: Declarative recall through early termination for approximate nearest neighbor search <span class="links"><a href="https://arxiv.org/abs/2505.19001">[paper]</a> <a href="https://github.com/MChatzakis/DARTH">[code]</a></span></div>
           <div class="author">
             <em>Manos Chatzakis</em>, Yannis Papakonstantinou, and Themis Palpanas
           </div>
@@ -39,9 +39,11 @@ The list is available in a github repo which you will find below.
             Volume 3, number 4, pages 1--26. ACM New York, NY, USA.
           </div>
           <div class="periodical">
-            <em>DARTH is the basis of the declarative recall mechanism that we are currently developing.
+            <em>
+            DARTH is the basis of the declarative recall mechanism that we are currently developing.
             It proposes a recall prediction model that estimates the recall of individual queries at runtime, and allows the search to terminate early when the desired recall is reached or surpassed.
-            DARTH idea is general, can be applied to any index and distance measure, and elimates all hyperparameter tuning.</em>
+            DARTH idea is general, can be applied to any index and distance measure, and elimates all hyperparameter tuning.
+            </em>
           </div>
         </div>
       </div>
@@ -50,7 +52,7 @@ The list is available in a github repo which you will find below.
     <li>
       <div class="row">
         <div id="chatzakis-hal-05566027" class="col-sm-10">
-          <div class="title">DARTH+: Approximate Nearest Neighbor Search with Declarative Recall and Quality Guarantees <span class="links"><a href="https://hal.science/hal-05566027">[paper]</a> <a href="#">[code]</a> <a href="#">[slides]</a></span></div>
+          <div class="title">DARTH+: Approximate Nearest Neighbor Search with Declarative Recall and Quality Guarantees <span class="links"><a href="https://hal.science/hal-05566027">[paper]</a></span></div>
           <div class="author">
             <em>Manos Chatzakis</em>, Yannis Papakonstantinou, and Themis Palpanas
           </div>
@@ -76,6 +78,26 @@ The list is available in a github repo which you will find below.
             <em>Filtered vector search is extremely important for real-world applications, since it allows users to filter the search space based on certain attributes of the data.
             However, hyperparameter tuning for filtered vector search is even more difficult than for unfiltered vector search, since the filtering can significantly change the search space.
             VADER fixes that! Stay tuned for more details.</em>
+          </div>
+        </div>
+      </div>
+    </li>
+
+    <li>
+      <div class="row">
+        <div id="del2026daisy" class="col-sm-10">
+          <div class="title">DaiSy: A Library for Scalable Data Series Similarity Search <span class="links"><a href="https://arxiv.org/abs/2603.27719">[paper]</a> <a href="https://github.com/MChatzakis/DaiSy">[code]</a></span></div>
+          <div class="author">
+            Francesca Del Gaudio, <em>Manos Chatzakis</em>, Gayathiri Ravendirane, Botao Peng, and Themis Palpanas
+          </div>
+          <div class="periodical">
+            ArXiv preprint, 2026.
+          </div>
+          <div class="periodical">
+            <em>
+            Learning-based methods for vector search usually require groundtruths. 
+            DaiSy, an open-source library for super-fast exact vector and data series similarity search, can be used to generate groundtruths for large datasets, and eliminates the overheads of brute-force search.
+            </em>
           </div>
         </div>
       </div>

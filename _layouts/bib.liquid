@@ -40,7 +40,48 @@
   <!-- Entry bib key -->
   <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-10{% else %}col-sm-12{% endif %}">
     <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+    <div class="title">
+      {{ entry.title }}
+      {% if entry.html %}
+        <span class="links"><a href="{{ entry.html }}">[paper]</a></span>
+      {% elsif entry.pdf %}
+        {% if entry.pdf contains '://' %}
+          <span class="links"><a href="{{ entry.pdf }}">[paper]</a></span>
+        {% else %}
+          <span class="links"><a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}">[paper]</a></span>
+        {% endif %}
+      {% endif %}
+      {% if entry.supp %}
+        {% if entry.supp contains '://' %}
+          <span class="links"><a href="{{ entry.supp }}">[supp]</a></span>
+        {% else %}
+          <span class="links"><a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}">[supp]</a></span>
+        {% endif %}
+      {% endif %}
+      {% if entry.blog %}
+        <span class="links"><a href="{{ entry.blog }}">[blog]</a></span>
+      {% endif %}
+      {% if entry.code %}
+        <span class="links"><a href="{{ entry.code }}">[code]</a></span>
+      {% endif %}
+      {% if entry.poster %}
+        {% if entry.poster contains '://' %}
+          <span class="links"><a href="{{ entry.poster }}">[poster]</a></span>
+        {% else %}
+          <span class="links"><a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}">[poster]</a></span>
+        {% endif %}
+      {% endif %}
+      {% if entry.slides %}
+        {% if entry.slides contains '://' %}
+          <span class="links"><a href="{{ entry.slides }}">[slides]</a></span>
+        {% else %}
+          <span class="links"><a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}">[slides]</a></span>
+        {% endif %}
+      {% endif %}
+      {% if entry.website %}
+        <span class="links"><a href="{{ entry.website }}">[website]</a></span>
+      {% endif %}
+    </div>
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
@@ -165,48 +206,8 @@
       {% if bibtex_show == 'true' %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       {% endif %}
-      {% if entry.html %}
-        <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
-      {% endif %}
-      {% if entry.pdf %}
-        {% if entry.pdf contains '://' %}
-          <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
-        {% else %}
-          <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
-        {% endif %}
-      {% endif %}
-      {% if entry.supp %}
-        {% if entry.supp contains '://' %}
-          <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
-        {% else %}
-          <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
-        {% endif %}
-      {% endif %}
       {% if entry.video %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Video</a>
-      {% endif %}
-      {% if entry.blog %}
-        <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
-      {% endif %}
-      {% if entry.code %}
-        <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
-      {% endif %}
-      {% if entry.poster %}
-        {% if entry.poster contains '://' %}
-          <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
-        {% else %}
-          <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
-        {% endif %}
-      {% endif %}
-      {% if entry.slides %}
-        {% if entry.slides contains '://' %}
-          <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
-        {% else %}
-          <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
-        {% endif %}
-      {% endif %}
-      {% if entry.website %}
-        <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
     </div>
     {% if site.enable_publication_badges %}

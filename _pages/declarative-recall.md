@@ -13,8 +13,14 @@ Recently, declarative recall has been provided by using early termination techni
 <br>
 
 ## our work
-Our work on declarative recall is based recall prediction, a simple but powerful early termination idea that estimates the recall of a query at runtime, and allows the search to stop early when the desired recall is reached. 
+Our work on declarative recall is based recall prediction, a simple<sup><a href="#dijkstra-simplicity" aria-label="Dijkstra quote on simplicity">1</a></sup> but powerful early termination idea that estimates the recall of a query at runtime, and allows the search to stop early when the desired recall is reached.
+
 Our work constitutes the first general solution to the problem: works for k-NN graph and IVF indexes, supports all common distance measures, allows users to choose a different target recall for each query at query time, and users do not need to set any parameters. 
+
+<blockquote id="dijkstra-simplicity" class="blockquote">
+  <p><a href="https://www.goodreads.com/quotes/215637-simplicity-is-a-great-virtue-but-it-requires-hard-work">Simplicity</a> is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.</p>
+  <footer class="blockquote-footer">Edsger Wybe Dijkstra</footer>
+</blockquote>
 
 <div class="publications">
   <ol class="bibliography">

@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /declarative-recall/
-title: declarative recall
+title: Thesis
 description:
-nav: false
-nav_order: 6
+nav: true
+nav_order: 3
 ---
 
 Declarative recall is a mechanism to elimate parameter tuning from approximate nearest neighbor vector search algorithms, since it allows users to specify a desired recall level instead of trying to tune the various hyperparameters of the underlying algorithm.

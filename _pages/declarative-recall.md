@@ -7,6 +7,18 @@ nav: false
 nav_order: 6
 ---
 
+## About this page and declarative recall
+Declarative recall is a mechanism to elimate parameter tuning from approximate nearest neighbor vector search algorithms, since it allows users to specify a desired recall level instead of trying to tune the various hyperparameters of the underlying algorithm.
+Recently, declarative recall has been provided by using early termination techniques, which allow the search to stop early when a certain recall level is reached.
+This field is the main focus of my PhD research, and I am currently working on a few papers that explore this topic.
+
+Our work on declarative recall is based recall prediction, a single but powerful early termination idea that estimates the recall of a query at runtime, and allows the search to stop early when the desired recall is reached. 
+Our work constitutes the first general solution to the problem: works for k-NN graph and IVF indexes, supports all common distance measures, allows users to choose a different target recall for each query at query time, and users do not need to set any parameters. 
+
+In this page, I contain pointers to my completed and ongoing work on declarative recall (papers, code, slides).
+Additionally, since early termination is a very active research area with multiple great papers other than mine coming out, I also maintain a list of interesting papers on early termination that I have read and found interesting.
+The list is available in a github repo which you will find below.
+
 ## Published and submitted papers
 
 <div class="publications">
@@ -14,7 +26,7 @@ nav_order: 6
     <li>
       <div class="row">
         <div id="chatzakis2025darth" class="col-sm-10">
-          <div class="title">Darth: Declarative recall through early termination for approximate nearest neighbor search</div>
+          <div class="title">Darth: Declarative recall through early termination for approximate nearest neighbor search <span class="links"><a href="#">[paper]</a> <a href="#">[code]</a> <a href="#">[slides]</a></span></div>
           <div class="author">
             <em>Manos Chatzakis</em>, Yannis Papakonstantinou, and Themis Palpanas
           </div>
@@ -24,9 +36,6 @@ nav_order: 6
           <div class="periodical">
             Volume 3, number 4, pages 1--26. ACM New York, NY, USA.
           </div>
-          <div class="periodical">
-            <strong>Notes:</strong> Paper is available <a href="#">here</a>, code <a href="#">here</a> and slides <a href="#">here</a>.
-          </div>
         </div>
       </div>
     </li>
@@ -34,15 +43,12 @@ nav_order: 6
     <li>
       <div class="row">
         <div id="chatzakis2026quest" class="col-sm-10">
-          <div class="title">The quest for faster ANN vector search</div>
+          <div class="title">The quest for faster ANN vector search <span class="links"><a href="#">[paper]</a> <a href="#">[code]</a> <a href="#">[slides]</a></span></div>
           <div class="author">
             <em>Manos Chatzakis</em>, Francesca Del Gaudio, Sophia Sideri, and Themis Palpanas
           </div>
           <div class="periodical">
             <em>EDBT</em>, 2026
-          </div>
-          <div class="periodical">
-            <strong>Notes:</strong> Paper is available <a href="#">here</a>, code <a href="#">here</a> and slides <a href="#">here</a>.
           </div>
         </div>
       </div>
@@ -51,7 +57,7 @@ nav_order: 6
     <li>
       <div class="row">
         <div id="chatzakis-hal-05566027" class="col-sm-10">
-          <div class="title">DARTH+: Approximate Nearest Neighbor Search with Declarative Recall and Quality Guarantees</div>
+          <div class="title">DARTH+: Approximate Nearest Neighbor Search with Declarative Recall and Quality Guarantees <span class="links"><a href="https://hal.science/hal-05566027v1/file/DARTH_plus_preprint.pdf">[paper]</a> <a href="#">[code]</a> <a href="#">[slides]</a></span></div>
           <div class="author">
             <em>Manos Chatzakis</em>, Yannis Papakonstantinou, and Themis Palpanas
           </div>
@@ -61,9 +67,6 @@ nav_order: 6
           <div class="periodical">
             This paper is an extended version of "DARTH: Declarative Recall Through Early Termination for Approximate Nearest Neighbor Search" (SIGMOD 2026) and is currently under review.
           </div>
-          <div class="periodical">
-            <strong>Notes:</strong> Paper is available <a href="https://hal.science/hal-05566027v1/file/DARTH_plus_preprint.pdf">here</a>, code <a href="#">here</a> and slides <a href="#">here</a>.
-          </div>
         </div>
       </div>
     </li>
@@ -71,12 +74,9 @@ nav_order: 6
     <li>
       <div class="row">
         <div id="vader-declarative-recall-filtered-vector-search" class="col-sm-10">
-          <div class="title">VADER: Declarative Recall for Filtered Vector Search</div>
+          <div class="title">VADER: Declarative Recall for Filtered Vector Search <span class="links"><a href="#">[paper]</a> <a href="#">[code]</a> <a href="#">[slides]</a></span></div>
           <div class="periodical">
             Submitted, coming soon!
-          </div>
-          <div class="periodical">
-            <strong>Notes:</strong> Paper is available <a href="#">here</a>, code <a href="#">here</a> and slides <a href="#">here</a>.
           </div>
         </div>
       </div>
@@ -85,12 +85,9 @@ nav_order: 6
     <li>
       <div class="row">
         <div id="senate-early-terminators" class="col-sm-10">
-          <div class="title">The Senate of Early Terminators</div>
+          <div class="title">The Senate of Early Terminators <span class="links"><a href="#">[paper]</a> <a href="#">[code]</a> <a href="#">[slides]</a></span></div>
           <div class="periodical">
             In preparation for IEEE Data Engineering Bulletin, coming soon!
-          </div>
-          <div class="periodical">
-            <strong>Notes:</strong> Paper is available <a href="#">here</a>, code <a href="#">here</a> and slides <a href="#">here</a>.
           </div>
         </div>
       </div>
@@ -98,8 +95,8 @@ nav_order: 6
   </ol>
 </div>
 
-## Interesting reads
 
+## Interesting reads
 I am maintaining a github repo summarizing the latest and most interesting papers on early termination.
 
 The repo is available <a href="https://github.com/MChatzakis/ann-declarative-recall-papers">here</a>.

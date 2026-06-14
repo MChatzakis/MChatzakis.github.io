@@ -64,6 +64,13 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- About me -->
+    {% if page.about_me %}
+      <h2>{{ page.about_me.title | default: 'about me' }}</h2>
+      {% capture about_me_content %}{% include about_me.md %}{% endcapture %}
+      {{ about_me_content | markdownify }}
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">

@@ -7,7 +7,6 @@ nav: false
 nav_order: 6
 ---
 
-## About this page and declarative recall
 Declarative recall is a mechanism to elimate parameter tuning from approximate nearest neighbor vector search algorithms, since it allows users to specify a desired recall level instead of trying to tune the various hyperparameters of the underlying algorithm.
 Recently, declarative recall has been provided by using early termination techniques, which allow the search to stop early when a certain recall level is reached.
 This field is the main focus of my PhD research, and I am currently working on a few papers that explore this topic.
@@ -19,7 +18,9 @@ In this page, I contain pointers to my completed and ongoing work on declarative
 Additionally, since early termination is a very active research area with multiple great papers other than mine coming out, I also maintain a list of interesting papers on early termination that I have read and found interesting.
 The list is available in a github repo which you will find below.
 
-## Published and submitted papers
+<br>
+<br>
+## Our work on declarative recall
 
 <div class="publications">
   <ol class="bibliography">
@@ -37,9 +38,9 @@ The list is available in a github repo which you will find below.
             Volume 3, number 4, pages 1--26. ACM New York, NY, USA.
           </div>
           <div class="periodical">
-            DARTH is the basis of the declarative recall mechanism that we are currently developing.
+            <em>DARTH is the basis of the declarative recall mechanism that we are currently developing.
             It proposes a recall prediction model that estimates the recall of individual queries at runtime, and allows the search to terminate early when the desired recall is reached or surpassed.
-            DARTH idea is general, can be applied to any index and distance measure, and elimates all hyperparameter tuning.
+            DARTH idea is general, can be applied to any index and distance measure, and elimates all hyperparameter tuning.</em>
           </div>
         </div>
       </div>
@@ -48,7 +49,7 @@ The list is available in a github repo which you will find below.
     <li>
       <div class="row">
         <div id="chatzakis-hal-05566027" class="col-sm-10">
-          <div class="title">DARTH+: Approximate Nearest Neighbor Search with Declarative Recall and Quality Guarantees <span class="links"><a href="https://hal.science/hal-05566027v1/file/DARTH_plus_preprint.pdf">[paper]</a> <a href="#">[code]</a> <a href="#">[slides]</a></span></div>
+          <div class="title">DARTH+: Approximate Nearest Neighbor Search with Declarative Recall and Quality Guarantees <span class="links"><a href="https://hal.science/hal-05566027v1/file/DARTH_plus_preprint.pdf">[paper (preprint)]</a> <a href="#">[code]</a> <a href="#">[slides]</a></span></div>
           <div class="author">
             <em>Manos Chatzakis</em>, Yannis Papakonstantinou, and Themis Palpanas
           </div>
@@ -56,11 +57,8 @@ The list is available in a github repo which you will find below.
             March 2026
           </div>
           <div class="periodical">
-            This paper is an extended version of "DARTH: Declarative Recall Through Early Termination for Approximate Nearest Neighbor Search" (SIGMOD 2026) and is currently under review.
-          </div>
-          <div class="periodical">
-            DARTH+ extends and optimizes DARTH.
-            It significantly improves recall prediction quality and required training times of DARTH, while it also provides optional probabilistic quality guarantees for the predicted recall of each query, allowing for robust early termination.
+            <em>DARTH+ extends and optimizes DARTH.
+            It significantly improves recall prediction quality and required training times of DARTH, while it also provides optional probabilistic quality guarantees for the predicted recall of each query, allowing for robust early termination.</em>
           </div>
         </div>
       </div>
@@ -74,9 +72,9 @@ The list is available in a github repo which you will find below.
             Submitted, coming soon!
           </div>
           <div class="periodical">
-            Filtered vector search is extremely important for real-world applications, since it allows users to filter the search space based on certain attributes of the data.
+            <em>Filtered vector search is extremely important for real-world applications, since it allows users to filter the search space based on certain attributes of the data.
             However, hyperparameter tuning for filtered vector search is even more difficult than for unfiltered vector search, since the filtering can significantly change the search space.
-            VADER fixes that! Stay tuned for more details.
+            VADER fixes that! Stay tuned for more details.</em>
           </div>
         </div>
       </div>
@@ -85,7 +83,8 @@ The list is available in a github repo which you will find below.
 </div>
 
 
-## Interesting reads
-I am maintaining a github repo summarizing the latest and most interesting papers on early termination.
+<br>
+<br>
 
-The repo is available <a href="https://github.com/MChatzakis/ann-declarative-recall-papers">here</a>.
+## Interesting reads
+I am maintaining a [github repo](https://github.com/MChatzakis/ann-declarative-recall-papers) summarizing the latest and most interesting papers on early termination.

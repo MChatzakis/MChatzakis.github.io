@@ -2,7 +2,7 @@
 layout: page
 permalink: /declarative-recall/
 title: thesis
-description:
+description: declarative recall for approximate nearest neighbor vector search
 nav: true
 nav_order: 3
 ---

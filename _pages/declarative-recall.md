@@ -10,9 +10,7 @@ nav_order: 3
 Declarative recall is a mechanism to elimate parameter tuning from approximate nearest neighbor vector search algorithms, since it allows users to specify a desired recall level instead of trying to tune the various hyperparameters of the underlying algorithm.
 Recently, declarative recall has been provided by using early termination techniques, which allow the search to stop early when a certain recall level is reached.
 
-<br>
-
-## our work
+## my thesis work (May 2025 - present)
 Our work on declarative recall is based recall prediction, a simple<sup><a href="#dijkstra-simplicity" aria-label="Dijkstra quote on simplicity">1</a></sup> but powerful early termination idea that estimates the recall of a query at runtime, and allows the search to stop early when the desired recall is reached.
 
 Our work constitutes the first general solution to the problem: works for k-NN graph and IVF indexes, supports all common distance measures, allows users to choose a different target recall for each query at query time, and users do not need to set any parameters. 
@@ -51,7 +49,7 @@ Our work constitutes the first general solution to the problem: works for k-NN g
     <li>
       <div class="row no-gutters">
         <div id="chatzakis-hal-05566027" class="col-sm-12">
-          <div class="title">DARTH+: Approximate Nearest Neighbor Search with Declarative Recall and Quality Guarantees <span class="links"><a href="https://hal.science/hal-05566027">[paper]</a></span></div>
+          <div class="title">DARTH+: Approximate Nearest Neighbor Search with Declarative Recall and Quality Guarantees <span class="links"><a href="https://hal.science/hal-05566027">[preprint]</a></span></div>
           <div class="author">
             <em>Manos Chatzakis</em>, Yannis Papakonstantinou, and Themis Palpanas
           </div>
@@ -69,7 +67,7 @@ Our work constitutes the first general solution to the problem: works for k-NN g
     <li>
       <div class="row no-gutters">
         <div id="vader-declarative-recall-filtered-vector-search" class="col-sm-12">
-          <div class="title">VADER: Declarative Recall for Filtered Vector Search <span class="links"><a href="#">[paper]</a> <a href="#">[code]</a> <a href="#">[slides]</a></span></div>
+          <div class="title">VADER: Declarative Recall for Filtered Vector Search <span class="links"></span></div>
           <div class="periodical">
             Submitted, coming soon!
           </div>
@@ -104,8 +102,6 @@ Our work constitutes the first general solution to the problem: works for k-NN g
   </ol>
 </div>
 
-
-<br>
 
 ## reading list
 I am maintaining a [github repo](https://github.com/MChatzakis/ann-declarative-recall-papers) summarizing the latest and most interesting papers on early termination.

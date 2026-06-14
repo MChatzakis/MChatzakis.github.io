@@ -21,7 +21,7 @@ Our work constitutes the first general solution to the problem: works for k-NN g
     <li>
       <div class="row no-gutters">
         <div id="chatzakis2025darth" class="col-sm-12">
-          <div class="title">Darth: Declarative recall through early termination for approximate nearest neighbor search <span class="links"><a href="https://arxiv.org/abs/2505.19001">[paper]</a> <a href="https://github.com/MChatzakis/DARTH">[code]</a></span></div>
+          <div class="title">DARTH: Declarative recall through early termination for approximate nearest neighbor search <span class="links"><a href="https://arxiv.org/abs/2505.19001">[paper]</a> <a href="https://github.com/MChatzakis/DARTH">[code]</a></span></div>
           <div class="author">
             <em>Manos Chatzakis</em>, Yannis Papakonstantinou, and Themis Palpanas
           </div>

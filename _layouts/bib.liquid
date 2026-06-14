@@ -51,6 +51,13 @@
           <span class="links"><a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}">[paper]</a></span>
         {% endif %}
       {% endif %}
+      {% if entry.preprint %}
+        {% if entry.preprint contains '://' %}
+          <span class="links"><a href="{{ entry.preprint }}">[preprint]</a></span>
+        {% else %}
+          <span class="links"><a href="{{ entry.preprint | prepend: '/assets/pdf/' | relative_url }}">[preprint]</a></span>
+        {% endif %}
+      {% endif %}
       {% if entry.supp %}
         {% if entry.supp contains '://' %}
           <span class="links"><a href="{{ entry.supp }}">[supp]</a></span>

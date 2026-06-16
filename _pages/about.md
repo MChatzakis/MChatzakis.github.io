@@ -34,3 +34,5 @@ I was also honored to participate as a young computer scientist in the [9th Heid
 
 I maintain a [dedicated page for my PhD research](https://mchatzakis.github.io/declarative-recall) on declarative recall for vector search.
 For details about my professional background, refer to my [detailed CV](https://mchatzakis.github.io/assets/pdf/cv.pdf).
+
+⚠️ We are always looking for motivated computer science BSc/MSc students to contribute to extensions within the [DaiSy](https://github.com/mchatzakis/DaiSy) project. If you are interested, please reach out!

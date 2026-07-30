@@ -80,20 +80,41 @@ Our work constitutes the first general solution to the problem: works for k-NN g
       </div>
     </li>
 
+    The works below are not directly included in my thesis, but they are strongly related to my general research on vector search.
+
     <li>
       <div class="row no-gutters">
         <div id="del2026daisy" class="col-sm-12">
           <div class="title">DaiSy: A Library for Scalable Data Series Similarity Search <span class="links"><a href="https://arxiv.org/abs/2603.27719">[paper]</a> <a href="https://github.com/MChatzakis/DaiSy">[code]</a></span></div>
           <div class="author">
-            Francesca Del Gaudio, <em>Manos Chatzakis</em>, Gayathiri Ravendirane, Botao Peng, and Themis Palpanas
+            Francesca Del Gaudio*, <em>Manos Chatzakis*</em>, Gayathiri Ravendirane, Botao Peng, and Themis Palpanas
           </div>
           <div class="periodical">
-            ArXiv preprint, 2026.
+            Accepted to SIGMOD Record! (2026).
           </div>
           <div class="periodical">
             <em>
             Learning-based methods for vector search usually require groundtruths. 
             DaiSy, an open-source library for super-fast exact vector and data series similarity search, can be used to generate groundtruths for large datasets, and eliminates the overheads of brute-force search.
+            </em>
+          </div>
+        </div>
+      </div>
+    </li>
+
+    <li>
+      <div class="row no-gutters">
+        <div id="lu2026bench" class="col-sm-12">
+          <div class="title">An In-Depth Study of Filter-Agnostic Vector Search on a PostgreSQL Database System <span class="links"><a href="https://arxiv.org/abs/2603.23710">[paper]</a></span></div>
+          <div class="author">
+            Duo Lu, Helena Caminal, <em>Manos Chatzakis</em>, Yannis Papakonstantinou, Yannis Chronis, Vaibhavi Jain, and Fatma Ozcan
+          </div>
+          <div class="periodical">
+            <em>Proceedings of the ACM on Management of Data</em>, 2026.
+          </div>
+          <div class="periodical">
+            <em>
+            This work studies filter-agnostic vector search on a PostgreSQL database system, providing an in-depth analysis of how filtering interacts with vector search inside a real database system.
             </em>
           </div>
         </div>

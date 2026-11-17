@@ -1,0 +1,2 @@
+- **Université Paris Cité** — Main Teaching Assistant for *Data Science* (graduate course, Spring 2026), delivering weekly lectures and supporting 60 students through supervision and grading.
+- **University of Crete** — Undergraduate Teaching Assistant for *Object-Oriented Programming* (Fall 2021), supporting lectures, supervision, and grading for a class of 200 students.

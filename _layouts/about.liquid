@@ -69,6 +69,13 @@ layout: default
       {{ professional_service_content | markdownify }}
     {% endif %}
 
+    <!-- Teaching -->
+    {% if page.teaching %}
+      <h2>{{ page.teaching.title | default: 'teaching' }}</h2>
+      {% capture teaching_content %}{% include teaching.md %}{% endcapture %}
+      {{ teaching_content | markdownify }}
+    {% endif %}
+
     <!-- About me -->
     {% if page.about_me %}
       <h2>{{ page.about_me.title | default: 'about me' }}</h2>

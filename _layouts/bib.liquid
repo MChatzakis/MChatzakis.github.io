@@ -74,6 +74,8 @@
       {% if entry.poster %}
         {% if entry.poster contains '://' %}
           <span class="links"><a href="{{ entry.poster }}">[poster]</a></span>
+        {% elsif entry.poster contains '/assets/' %}
+          <span class="links"><a href="{{ entry.poster | relative_url }}">[poster]</a></span>
         {% else %}
           <span class="links"><a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}">[poster]</a></span>
         {% endif %}
@@ -81,6 +83,8 @@
       {% if entry.slides %}
         {% if entry.slides contains '://' %}
           <span class="links"><a href="{{ entry.slides }}">[slides]</a></span>
+        {% elsif entry.slides contains '/assets/' %}
+          <span class="links"><a href="{{ entry.slides | relative_url }}">[slides]</a></span>
         {% else %}
           <span class="links"><a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}">[slides]</a></span>
         {% endif %}

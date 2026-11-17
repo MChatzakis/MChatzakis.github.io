@@ -25,7 +25,7 @@ Our work constitutes the first general solution to the problem: works for k-NN g
             <em>Manos Chatzakis</em>, Yannis Papakonstantinou, and Themis Palpanas
           </div>
           <div class="periodical">
-            <em>Proceedings of the ACM on Management of Data</em>, 2025
+            <em>Proceedings of the ACM on Management of Data</em>, 2026
           </div>
           <div class="periodical">
             Volume 3, number 4, pages 1--26. ACM New York, NY, USA.
@@ -64,17 +64,22 @@ Our work constitutes the first general solution to the problem: works for k-NN g
         <div id="vader-declarative-recall-filtered-vector-search" class="col-sm-12">
           <div class="title">VADER: Declarative Recall for Filtered Vector Search <span class="links"></span></div>
           <div class="periodical">
-            Submitted, coming soon!
+            VLDB 2027
           </div>
           <div class="periodical">
             <em>Filtered vector search is extremely important for real-world applications, since it allows users to filter the search space based on certain attributes of the data.
             However, hyperparameter tuning for filtered vector search is even more difficult than for unfiltered vector search, since the filtering can significantly change the search space.
-            VADER fixes that! Stay tuned for more details.</em>
+            VADER fixes that!</em>
           </div>
         </div>
       </div>
     </li>
-
+  
+  
+  
+    <br>
+    <br>
+    <br>
     The works below are not directly included in my thesis, but they are strongly related to my general research on vector search.
 
     <li>

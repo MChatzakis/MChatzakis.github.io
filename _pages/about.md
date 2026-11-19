@@ -30,4 +30,4 @@ and [FORTH-ICS](https://www.forth.gr/en/home/) in Greece.
 I am a doctoral scholar of the [Onassis Foundation](https://www.onassis.org), and an graduate scholar of the [Latsis Foundation](https://www.latsis-foundation.org/eng) and the [Onassis Foundation](https://www.onassis.org). 
 I am also honored to be an alumni of the [9th Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/forum/9th-hlf-2022.html).
 
-For more details, please see [curriculum vitae](https://mchatzakis.github.io/assets/pdf/cv.pdf).
+For more details, please see [curriculum vitae](https://mchatzakis.github.io/assets/pdf/Chatzakis_CV.pdf).

@@ -62,9 +62,12 @@ Our work constitutes the first general solution to the problem: works for k-NN g
     <li>
       <div class="row no-gutters">
         <div id="vader-declarative-recall-filtered-vector-search" class="col-sm-12">
-          <div class="title">VADER: Declarative Recall for Filtered Vector Search <span class="links"></span></div>
+          <div class="title">VADER: Filtered Vector Search with Declarative Recall <span class="links"><a href="https://arxiv.org/abs/2609.38053">[paper]</a></span></div>
+          <div class="author">
+            <em>Manos Chatzakis</em>, Duo Lu, Helena Caminal, Yannis Chronis, Fatma Özcan, Yannis Papakonstantinou, Timofey Asyrkin, Sebastian Infante Murguia, Itai Rosenblatt, and Themis Palpanas
+          </div>
           <div class="periodical">
-            VLDB 2027
+            <em>Proceedings of the VLDB Endowment (PVLDB)</em>, 2027
           </div>
           <div class="periodical">
             <em>Filtered vector search is extremely important for real-world applications, since it allows users to filter the search space based on certain attributes of the data.

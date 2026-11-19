@@ -198,24 +198,12 @@ Workshop on Diffusion Models (NeurIPS: <a href="https://diffusionworkshop.github
       - [Atom (RSS-like) Feed](#atom-rss-like-feed)
       - [Related posts](#related-posts)
       - [Code quality checks](#code-quality-checks)
-  - [FAQ](#faq)
-  - [Contributing](#contributing)
-    - [Maintainers](#maintainers)
-    - [All Contributors](#all-contributors)
   - [Star History](#star-history)
   - [License](#license)
 
 ## Getting started
 
 Want to learn more about Jekyll? Check out [this tutorial](https://www.taniarascia.com/make-a-static-website-with-jekyll/). Why Jekyll? Read [Andrej Karpathy's blog post](https://karpathy.github.io/2014/07/01/switching-to-jekyll/)!
-
-## Installing
-
-For installation details please refer to [INSTALL.md](INSTALL.md).
-
-## Customizing
-
-For customization details please refer to [CUSTOMIZE.md](CUSTOMIZE.md).
 
 ## Features
 
@@ -376,13 +364,7 @@ Currently, we run some checks to ensure that the code quality and generated site
 
 We decided to keep `Axe` runs manual because fixing the issues are not straightforward and might be hard for people without web development knowledge.
 
-## FAQ
-
-For frequently asked questions, please refer to [FAQ.md](FAQ.md).
-
 ## Contributing
-
-Contributions to al-folio are very welcome! Before you get started, please take a look at [the guidelines](CONTRIBUTING.md).
 
 If you would like to improve documentation or fix a minor inconsistency or bug, please feel free to send a PR directly to `master`. For more complex issues/bugs or feature requests, please open an issue using the appropriate template.
 

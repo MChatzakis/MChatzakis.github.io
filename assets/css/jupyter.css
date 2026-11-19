@@ -1,12 +1,8 @@
 /******************************************************************************
 * Jupyter notebooks styles
 *
-* Created basically from exporting the notebook to HTML for both light and dark
-* modes with
-* jupyter nbconvert --execute --to html blog.ipynb --HTMLExporter.theme=light
-* and
-* jupyter nbconvert --execute --to html blog.ipynb --HTMLExporter.theme=dark
-* and diffing the results. Here are only the differences.
+* Derived from exported notebooks in light and dark modes. This file contains
+* only the resulting style differences.
 ******************************************************************************/
 :root {
   /* Elevation
